@@ -36,3 +36,4 @@
    echo template("templates/partials/footer.php");
 
 ?>
+<input type="submit" name="delete" id="delete" value="Delete Records">
