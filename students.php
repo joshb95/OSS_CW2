@@ -1,3 +1,4 @@
+<form method="post" action="delete.php">
 <?php
 
    include("_includes/config.inc");
@@ -37,3 +38,4 @@
 
 ?>
 <input type="submit" name="delete" id="delete" value="Delete Records">
+</form>
