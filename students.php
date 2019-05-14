@@ -4,18 +4,6 @@
    include("_includes/dbconnect.inc");
    include("_includes/functions.inc");
 
-   function show_confirm22()
-       {
-       var c=confirm("The entry will be parmanently deleted!");
-       if (c==true)
-       {return true;
-       }
-       else
-       {
-       return false;
-       }
-       }
-
    // check logged in
    if (isset($_SESSION['id'])) {
 
@@ -37,15 +25,7 @@
       }
       $data['content'] .= "</table>";
 
-      <div style="margin-top:20px;">
-              <div style=" float:left;">
-                <input name="delete" type="submit" id="delete" value="Delete" onClick="return show_confirm22();" style="background:#F52126; color:#fff; border:none; font-size:12px; padding:4px 8px;">
-                &nbsp;<input type="checkbox" id="selectall"/> Check All
-              </div>
-              <div style="clear:both;"></div>
-         </div>
-
-         
+    
       // render the template
       echo template("templates/default.php", $data);
 
