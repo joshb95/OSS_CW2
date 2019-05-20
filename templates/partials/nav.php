@@ -55,13 +55,13 @@
         <a class="nav-link" href="modules.php">My Modules <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="assignmodule.php">Assign Module</a>
+        <a class="nav-link" href="assignmodule.php">Assign Module<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="details.php" >My Details</a>
+        <a class="nav-link" href="details.php" >My Details<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="logout.php" >Logout</a>
+        <a class="nav-link" href="logout.php" >Logout<span class="sr-only">(current)</span></a>
       </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
