@@ -51,7 +51,7 @@
 
   <div class="collapse navbar-collapse" id="navbarsExampleDefault">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
+      <li class="nav-item">
         <a class="nav-link" href="modules.php">My Modules <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
