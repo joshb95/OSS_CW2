@@ -63,6 +63,9 @@
       <li class="nav-item">
         <a class="nav-link" href="logout.php" >Logout<span class="sr-only">(current)</span></a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="addstudent.html" >Add Student<span class="sr-only">(current)</span></a>
+      </li>
     </ul>
     <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
