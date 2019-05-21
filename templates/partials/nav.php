@@ -66,7 +66,7 @@
         <a class="nav-link" href="logout.php" >Logout<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="addstudent.html" >Add Student<span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="addstudent1.php" >Add Student<span class="sr-only">(current)</span></a>
       </li>
     </ul>
 
